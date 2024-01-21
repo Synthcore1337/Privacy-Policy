@@ -30,7 +30,7 @@ The Service stores:
 Even if you remove the bot from your Discord server, we store the data for around 30 days to ensure that if you re-add the bot, you won't lose any configuration within 30 days of bot removal. If you want to have it removed, you have the right to request the developer to do so. Once deleted, it's not possible to recover the data.
 
 **5. Contact Information**
-- Support Server: [Link to Support Server]
+- Support Server: [Link to Support Server](https://discord.gg/ochako)
 - If the server invite is invalid, email us at ochakodev@protonmail.com.
 
 **6. Policy Changes**
